@@ -1,0 +1,38 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title> Man of God </title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<section id="main">
+<nav>
+<a href="#" class="logo">
+<img src="C:\Users\ramra\OneDrive\Desktop\logo.jpg" alt="The Logo">
+</a>
+
+<span class="menu-space"></span>
+<ul class="menu">
+<li><a href="#">Home</a></li>
+<li><a href="#">Songs</a></li>
+<li><a href="#">Messages</a></li>
+<li><a href="#">Worship Songs</a></li>
+<li><a href="#">contact</a></li>
+</ul>
+<a href=L#" class="hey"><strong>Prayer Request!<strong/></a>
+</nav>
+</section>
+
+<section class="content">
+<div class="image">
+<img src="C:\Users\ramra\OneDrive\Desktop\RAJ ANNA.jpg" alt="RAJ">
+</div>
+<div class="main-text">
+<h1>Hello, I am<br>Raj Prakash Paul</h1>
+<p>Hey people,Here is the good news for all.We are starting the 40days fasting prayers </p>
+<a href="#" class="resume-btn">See My Profile</a>
+</div>
+</section>
+
+</body>
+</html>
